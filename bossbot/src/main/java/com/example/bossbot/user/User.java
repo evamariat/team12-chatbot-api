@@ -1,6 +1,5 @@
 package com.example.bossbot.user;
 
-import com.example.bossbot.conversation.Conversation;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
